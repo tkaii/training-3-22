@@ -174,7 +174,6 @@ a:hover {
 @media (min-width: 900px) {
 .header {
   background: #5B4E42;
-  position: absolute;
   color: #fff;
 }
 
@@ -185,7 +184,7 @@ a:hover {
 nav {
   display: flex;
   justify-content: flex-end;
-  margin: .3rem;
+  padding:  .3rem;
 }
 
 .nav ul {
